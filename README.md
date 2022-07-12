@@ -7,3 +7,4 @@
 Features of Version 1.4:
 - Generates the parameter preset menu from code based on the csv file instead of being pre-populated in QT Designer in 1.3.
 - Can swap viability of a seed (ie. from viable to non-viable or vice versa) by left-clicking on it after the viable seeds have been counted.
+  - Note: cannot swap viability of seeds after scrolling the image, so either change the magnification in the preset file or manually to ensure all seeds on the image are         visible and can be editted
