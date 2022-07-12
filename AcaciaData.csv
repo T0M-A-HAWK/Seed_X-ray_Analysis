@@ -1,0 +1,5 @@
+Species Name,,Contrast,Magnification,Small Object Threshold,Large Object Threshold,Background Kernal Size,Foreground Search Range,Minimum Display Intensity,Maximum Display Intensity,Viable Seed Cutoff
+Acacia alaucophylla,1.5,-3,20,45,50000,6,0.3,125,183,135
+Acacia andrewsii,2,-7,20,900,50000,6,0.3,76,112,82
+Acacia aneura,0,-6,20,800,50000,6,0.3,90,137,121
+Acacia acuaria,1.5,0,20,45,50000,6,0.3,206,248,223
